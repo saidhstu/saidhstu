@@ -2,9 +2,10 @@
 ![expert devops engineer open to work](https://github.com/saidhstu/saidhstu/assets/37407965/b5b79782-5a1f-4b3e-bfc4-d08262b0480b)
 
 Hi 👋, I'm Saidur Rohman
-DevOps Engineer focused on automation and cloud technologies for efficiency.
-Scripting
+DevOps Engineer and Full Stack Developer focused on automation and cloud technologies for efficiency.
 
+DevOps
+------------------------------------
 
 🔭 I’m currently working on Terraform-for-AWS
 
