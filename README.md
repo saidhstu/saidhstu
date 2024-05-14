@@ -30,9 +30,3 @@ https://www.linkedin.com/in/DevOps-Saidur
 
 Languages and Tools:
 aws azure bash c circleci cplusplus docker figma git java jenkins kubernetes linux python ruby
-
-amanpathak-devops
-
- amanpathak-devops
-
-amanpathak-devops
