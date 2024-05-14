@@ -24,7 +24,13 @@ Blogs posts On my personal website
 "Buy Me A Coffee"
 
 Connect with me:
-https://www.linkedin.com/in/DevOps-Saidur
+<p align="left" dir="auto">
+
+<a href="https://www.linkedin.com/in/devops-saidur/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devops-saidur/" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://web.facebook.com/saidhstu" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/saidhstu" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://www.instagram.com/saidur_said/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/saidur_said" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://medium.com/@saidhstu" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@saidhstu" height="30" width="40" style="max-width: 100%;"></a>
+</p>
 
 Languages and Tools:
 aws azure bash c circleci cplusplus docker figma git java jenkins kubernetes linux python ruby
