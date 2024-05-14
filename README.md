@@ -5,11 +5,10 @@ Hi 👋, I'm Saidur Rohman
 DevOps Engineer focused on automation and cloud technologies for efficiency.
 Scripting
 
-amanpathak-devops
 
 🔭 I’m currently working on Terraform-for-AWS
 
-🌱 I’m currently learning Kubernetes
+🌱 I’m currently working on Kubernetes
 
 📝 I regularly write articles on https://triplebytesoft.com/blogs
 
@@ -20,8 +19,7 @@ amanpathak-devops
 ⚡ Fun fact I am Extrovert
 
 📄 Know about my experiences https://www.linkedin.com/in/DevOps-Saidur
-Blogs posts
-Aman Pathak On Medium
+Blogs posts On my personal website
 
 "Buy Me A Coffee"
 
