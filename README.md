@@ -1,6 +1,6 @@
 
-[MasterHead
-](https://camo.githubusercontent.com/18936b3eb508935ef621cd07dbd231fa5e9ef1cd839fecd52e08d859a35f0ff9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f7573657275706c6f61642f373732353831342f66696c652f6f726967696e616c2d61643334653561336435383761386139306236353836646536373731303232352e676966)
+![expert devops engineer open to work](https://github.com/saidhstu/saidhstu/assets/37407965/b5b79782-5a1f-4b3e-bfc4-d08262b0480b)
+
 Hi 👋, I'm Saidur Rohman
 DevOps Engineer focused on automation and cloud technologies for efficiency.
 Scripting
