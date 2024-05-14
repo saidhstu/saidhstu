@@ -25,7 +25,7 @@ Blogs posts On my personal website
 
 Connect with me:
 <p align="left" dir="auto">
-
+<a href="https://www.upwork.com/freelancers/~011ac1b8f17d2570d3" rel="nofollow"><img align="center" src="https://github.com/saidhstu/saidhstu/assets/37407965/1ec63300-b0ec-45bf-b943-9e47b735b12d" alt="https://www.upwork.com/freelancers/~011ac1b8f17d2570d3" height="30" width="40" style="max-width: 100%;"></a>
 <a href="https://www.linkedin.com/in/devops-saidur/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devops-saidur/" height="30" width="40" style="max-width: 100%;"></a>
 <a href="https://web.facebook.com/saidhstu" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/saidhstu" height="30" width="40" style="max-width: 100%;"></a>
 <a href="https://www.instagram.com/saidur_said/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/saidur_said" height="30" width="40" style="max-width: 100%;"></a>
