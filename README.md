@@ -1,6 +1,6 @@
 
 <b>Hi 👋, I'm Saidur Rohman</b>
-<h2>DevOps Engineer and Full Stack Developer focused on automation and cloud technologies for efficiency.</h2>
+<h2>DevOps Engineer and Full Stack Developer focused on automation and cloud technologies for efficiency!.</h2>
 
 DevOps
 ------------------------------------
